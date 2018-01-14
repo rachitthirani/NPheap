@@ -1,0 +1,1 @@
+cmd_/home/skavuru/OS/p1/CSC501_NPHeap/kernel_module/npheap.o := ld -m elf_x86_64   -r -o /home/skavuru/OS/p1/CSC501_NPHeap/kernel_module/npheap.o /home/skavuru/OS/p1/CSC501_NPHeap/kernel_module/src/core.o /home/skavuru/OS/p1/CSC501_NPHeap/kernel_module/src/ioctl.o /home/skavuru/OS/p1/CSC501_NPHeap/kernel_module/interface.o 
